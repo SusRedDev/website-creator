@@ -6,7 +6,6 @@ const App = () => {
   return (
     <>
     <Button 
-      onClick={() => alert("Hello")}
       variant='contained'
       color='secondary'
     >
