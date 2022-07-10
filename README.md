@@ -4,5 +4,18 @@
 - 🆕 I like new ways to make things easier
 - 💻 HTML, CSS (Native & Bootstrap), SQL, JS, PHP, PYTHON
 - 🌱 + Currently Learning React Js and Material UI to stay UP-TO-DATE
-- 🔍 Looking to create a platform that turns creating website into a fun and quick \n
+- 🔍 Looking to create a platform that turns creating website into a fun and quick <br/>
  process while using the latest technology
+
+## First : how to proceed
+- Login and Registration page (Email confirmation/password reset)
+- Home Landing page (Image Slider & Video/Banner1/Banner2/Free Templates/Banner3/Websites/User 
+<br/>  Websites/Q&A/Footer)
+- Tutorials page (Official and users/Filter)
+- Search page (Filter)
+- Templates page (Filter)
+----------------------------------
+- Dashboard landing page (projects)
+- New Project (Upload or Create)
+- Editor (Code or Drag & Drop/Project settings/Pages/Database/Stats/Orders/Add table../Apps<br/> (chat,calendar)/Download)
+- Account settings
