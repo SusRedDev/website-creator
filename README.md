@@ -23,4 +23,4 @@
 ## Second : technologies for the project
 - React js for refreshing content and using material-ui
 - SQL for storing data into databases
-- API's for users projects 
+- API's for users projects (commerceJs/AWS Amazon S3)
